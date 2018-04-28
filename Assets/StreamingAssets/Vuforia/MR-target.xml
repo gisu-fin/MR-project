@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="Sipuli" size="2.000000 1.256522" />
-    <ImageTarget name="kissa" size="1.000000 0.750000" />
+    <ImageTarget name="sipuli" size="0.200000 0.113990" />
+    <ImageTarget name="sieni" size="0.200000 0.113784" />
+    <ImageTarget name="paprika" size="0.200000 0.113486" />
+    <ImageTarget name="makkara" size="0.200000 0.113881" />
+    <ImageTarget name="leipa" size="0.200000 0.111899" />
+    <ImageTarget name="Juusto" size="0.200000 0.117136" />
+    <ImageTarget name="hampur" size="0.200000 0.116962" />
+    <ImageTarget name="banaani" size="0.200000 0.118635" />
     <ImageTarget name="LuckyLuke" size="0.500000 0.688187" />
     <ImageTarget name="JollyJumper" size="3.000000 4.056761" />
     <ImageTarget name="RanTanPlan" size="2.000000 2.788296" />
