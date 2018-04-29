@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="juusto2" size="1.000000 0.634615" />
+    <ImageTarget name="banaani3" size="1.000000 0.639260" />
+    <ImageTarget name="banaani2" size="1.000000 0.593176" />
+    <ImageTarget name="vesimeloni" size="0.200000 0.115245" />
     <ImageTarget name="sipuli" size="0.200000 0.113990" />
     <ImageTarget name="sieni" size="0.200000 0.113784" />
     <ImageTarget name="paprika" size="0.200000 0.113486" />
