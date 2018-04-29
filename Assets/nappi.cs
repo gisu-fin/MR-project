@@ -6,11 +6,19 @@ using UnityEngine.UI;
 public class nappi : MonoBehaviour {
 
     public GameObject panel;
-    private bool state = false;
+    int counter;
 
     public void ShowHide()
     {
-        state = !state;
-        panel.SetActive(state);
+        counter++;
+        if (counter % 2 == 0)
+        {
+            panel.SetActive(false);
+        }
+        else
+        {
+            panel.SetActive(true);
+
+        }
     }
 }
